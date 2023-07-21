@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Fernando Alves",
+        "category": "Mountains",
+        "city": "Twentynine Palms",
+        "state": "Designer",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Manhã",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Sou um aluno de Design, tenho 23 anos e gosto de escutar música. Tenho muita vontade de espandir meu conhecimento na área de desenvolvimento de software.",
+        "imageName": "man1"
+    },
+    {
+        "name": "Letícia Batista",
+        "category": "Lakes",
+        "city": "Port Alsworth",
+        "state": "Desenvolvedora",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Tarde",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "Sou uma aluna do curso de Sistemas de Informação, gosto muito de programar, e quero muito aprender Swift. Gosto de ler livros e assistir séries.",
+        "imageName": "silversalmoncreek"
+    },
+    {
+        "name": "Gabriela Oliveira",
+        "category": "Mountains",
+        "city": "Twentynine Palms",
+        "state": "Designer",
+        "id": 1003,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Manhã",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Sou um aluno de Design, tenho 23 anos e gosto de escutar música. Tenho muita vontade de espandir meu conhecimento na área de desenvolvimento de software.",
+        "imageName": "stmarylake"
+        },
+
+    {
+        "name": "Ana Silva",
+        "category": "Mountains",
+        "city": "Twentynine Palms",
+        "state": "Designer",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Manhã",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Sou um aluno de Design, tenho 23 anos e gosto de escutar música. Tenho muita vontade de espandir meu conhecimento na área de desenvolvimento de software.",
+        "imageName": "chilkoottrail"
+        },
+
+    {
+        "name": "José Santos",
+        "category": "Mountains",
+        "city": "Twentynine Palms",
+        "state": "Designer",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Manhã",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Sou um aluno de Design, tenho 23 anos e gosto de escutar música. Tenho muita vontade de espandir meu conhecimento na área de desenvolvimento de software.",
+        "imageName": "twinlake"
+        },
+
+    {
+            "name": "Lucas Mendes",
+            "category": "Mountains",
+            "city": "Twentynine Palms",
+            "state": "Designer",
+            "id": 1006,
+            "isFeatured": true,
+            "isFavorite": true,
+            "park": "Manhã",
+            "coordinates": {
+                "longitude": -116.166868,
+                "latitude": 34.011286
+            },
+            "description": "Sou um aluno de Design, tenho 23 anos e gosto de escutar música. Tenho muita vontade de espandir meu conhecimento na área de desenvolvimento de software.",
+            "imageName": "lakemcdonald"
+        },
+
+    {
+            "name": "Mariana Pereira",
+            "category": "Mountains",
+            "city": "Twentynine Palms",
+            "state": "Designer",
+            "id": 1007,
+            "isFeatured": true,
+            "isFavorite": true,
+            "park": "Manhã",
+            "coordinates": {
+                "longitude": -116.166868,
+                "latitude": 34.011286
+            },
+            "description": "Sou um aluno de Design, tenho 23 anos e gosto de escutar música. Tenho muita vontade de espandir meu conhecimento na área de desenvolvimento de software.",
+            "imageName": "charleyrivers"
+        },
+
+]
